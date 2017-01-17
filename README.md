@@ -1,2 +1,2 @@
 # class_login_dotnet
-Class for login in .NET using session
+Criando um sistema de autenticação com login e senha de modo facilitado e básico utilizando as tecnologias ASP.NET e C#.
